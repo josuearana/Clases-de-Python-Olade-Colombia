@@ -1,2 +1,3 @@
 # Clases-de-Python-Olade-Colombia
-Clases del Diplomado en analitica de mercados energeticos utilizando python
+Contiene el material de clases del diplomado en analitica de mercados energeticos utilizando python
+demo demo demo 
